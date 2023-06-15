@@ -1,0 +1,15 @@
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\bin\Debug\net7.0\Xadrez-Console.exe
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\bin\Debug\net7.0\Xadrez-Console.deps.json
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\bin\Debug\net7.0\Xadrez-Console.runtimeconfig.json
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\bin\Debug\net7.0\Xadrez-Console.dll
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\bin\Debug\net7.0\Xadrez-Console.pdb
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.dll
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\refint\Xadrez-Console.dll
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.pdb
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\Xadrez-Console.genruntimeconfig.cache
+C:\Users\Fernando\Documents\Programinhas do Muriba\C#\Programas\Xadrez-Console\obj\Debug\net7.0\ref\Xadrez-Console.dll
