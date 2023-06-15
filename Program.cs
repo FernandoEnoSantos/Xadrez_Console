@@ -1,16 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
-using Tabuleiro;
+using tabuleiro;
 
-namespace xadrez_console{
+
+namespace Xadrez_Console{
     class Program{
         static void Main(string[] args){
 
 
             Tabuleiro tab = new Tabuleiro(8,8);
 
-
+            Tela.imprimirTabuleiro(tab);
 
 
         }
