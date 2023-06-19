@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using tabuleiro;
+using xadrez;
 
 namespace Xadrez_Console
 {
@@ -36,6 +37,17 @@ namespace Xadrez_Console
 
             }
             System.Console.WriteLine("  a b c d e f g h");
+
+
+        }
+
+        public static PosicaoXadrez lerPosicaoXadrez(){
+
+            string s = Console.ReadLine();
+            char coluna = s[0];
+            int linha = int.Parse(s[1]+"");// essa concatenação do vet s com string vazio, força a informação a ser string
+
+            return new PosicaoXadrez(coluna,linha);
 
 
         }
